@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TuanDungLuong/chat-web.git/static/css/main.9cb7495d.chunk.css",
+    "main.js": "/TuanDungLuong/chat-web.git/static/js/main.c3bb2ff9.chunk.js",
+    "main.js.map": "/TuanDungLuong/chat-web.git/static/js/main.c3bb2ff9.chunk.js.map",
+    "runtime-main.js": "/TuanDungLuong/chat-web.git/static/js/runtime-main.1a81e035.js",
+    "runtime-main.js.map": "/TuanDungLuong/chat-web.git/static/js/runtime-main.1a81e035.js.map",
+    "static/js/2.ee37ebed.chunk.js": "/TuanDungLuong/chat-web.git/static/js/2.ee37ebed.chunk.js",
+    "static/js/2.ee37ebed.chunk.js.map": "/TuanDungLuong/chat-web.git/static/js/2.ee37ebed.chunk.js.map",
+    "index.html": "/TuanDungLuong/chat-web.git/index.html",
+    "precache-manifest.e89c45957a8c1875ca0cd3695408b8cc.js": "/TuanDungLuong/chat-web.git/precache-manifest.e89c45957a8c1875ca0cd3695408b8cc.js",
+    "service-worker.js": "/TuanDungLuong/chat-web.git/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "/TuanDungLuong/chat-web.git/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.ee37ebed.chunk.js.LICENSE.txt": "/TuanDungLuong/chat-web.git/static/js/2.ee37ebed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a81e035.js",
+    "static/js/2.ee37ebed.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.c3bb2ff9.chunk.js"
+  ]
+}
